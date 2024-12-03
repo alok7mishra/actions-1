@@ -1,2 +1,2 @@
 # actions-1
-We will be learning Githun Action
+We will be learning Github Action
