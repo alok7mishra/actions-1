@@ -13,7 +13,7 @@ jobs:
               run: |
                echo "My First Github Actions Job"
                ls -ltra
-               cat etc/os-release
+               cat /etc/os-release
                cat README.md
                
               
